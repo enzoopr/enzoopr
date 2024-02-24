@@ -1,5 +1,4 @@
 <h1 align="center">enzoo :)</h1>
-<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Vsfd%2C+tmj!" alt="Typing SVG" /></a> </h3>
 
 - Preto [macaco](preto)
 
